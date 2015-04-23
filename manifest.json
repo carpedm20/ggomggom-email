@@ -24,7 +24,6 @@
       "128": "/static/img/icon128.png"
    },
    "default_locale": "ko",
-   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDCOOy8sdOfAZSG6yaC04QxPpC4vrGG7rdyfM7kJq9qE2+Uzvbe5XELHCNpatSzoZ6mahMiruq1ToAfaOijZtH3s4BduG6nVNTSI3gcdF+9Bto29a3xN/ySg9ectFMIfopSfkGbfrwtzzk9DHrF0GvoKhOu1p+peHzhMSjSyYRluwIDAQAB",
    "manifest_version": 2,
    "permissions": [ "management" ],
    "update_url": "https://clients2.google.com/service/update2/crx",

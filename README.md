@@ -7,7 +7,7 @@
 
 This is a chrome extension that add a button right next to the email send button to check the grammar of text.
 
-Chrome web store : [download]()
+Chrome web store : [download](https://chrome.google.com/webstore/detail/%EA%BC%BC%EA%BC%BC%ED%95%9C-%EC%9D%B4%EB%A9%94%EC%9D%BC/enikkgcjnbdkcfjehoncjmogbilhdapf/reviews?hl=ko&gl=001)
 
 
 ## Screenshots ##
@@ -18,4 +18,4 @@ Chrome web store : [download]()
 
 ## Copyright ##
 
-Copyright (c) 2015 Kim Tae Hoon
+Copyright (c) 2015 [Kim Tae Hoon](http://carpedm20.github.io)
