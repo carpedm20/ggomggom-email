@@ -9,6 +9,12 @@ This is a chrome extension that add a button right next to the email send button
 
 Chrome web store : [download](https://chrome.google.com/webstore/detail/%EA%BC%BC%EA%BC%BC%ED%95%9C-%EC%9D%B4%EB%A9%94%EC%9D%BC/enikkgcjnbdkcfjehoncjmogbilhdapf/reviews?hl=ko&gl=001)
 
+### Email services with support ###
+
+- Gmail
+- Naver mail
+- UNIST mail
+
 
 ## Screenshots ##
 

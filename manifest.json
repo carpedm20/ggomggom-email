@@ -11,12 +11,18 @@
          "js": [ "/static/js/nmail_content.js" ],
          "matches": [ "http://mail.naver.com/*", "https://mail.naver.com/*" ],
          "run_at": "document_end"
+      },
+      {
+         "js": [ "/static/js/umail_content.js" ],
+         "matches": [ "http://mail.unist.ac.kr/*", "https://mail.unist.ac.kr/*" ],
+         "run_at": "document_end"
       }
    ],
    "web_accessible_resources": [
       "/static/js/gmail.js",
       "/static/js/gmail_checker.js",
       "/static/js/nmail_checker.js",
+      "/static/js/umail_checker.js",
       "/static/js/jquery-1.11.2.min.js"
    ],
    "icons": {
@@ -27,5 +33,5 @@
    "manifest_version": 2,
    "permissions": [ "management" ],
    "update_url": "https://clients2.google.com/service/update2/crx",
-   "version": "1.0.0"
+   "version": "1.1.0"
 }

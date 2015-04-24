@@ -34,7 +34,7 @@ function convertHtmlToText(inputText) {
   returnText=returnText.replace(/<br\/>/gi, "\n");
 
   //-- remove P and A tags but preserve what's inside of them
-  returnText=returnText.replace(/<p.*>/gi, "\n");
+  returnText=returnText.replace(/<\/p>/gi, "\n");
   returnText=returnText.replace(/<a.*href="(.*?)".*>(.*?)<\/a>/gi, " $2");
 
   //-- remove all inside SCRIPT and STYLE tags
